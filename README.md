@@ -43,7 +43,7 @@ dsh 0.1.0 · 最小形态命令行 Agent
 ### Windows（PowerShell）
 
 ```powershell
-git clone <你的仓库地址> dsh
+git clone https://github.com/11HJH11/dsh.git dsh
 cd dsh
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
@@ -62,7 +62,7 @@ dsh
 ### macOS / Linux
 
 ```bash
-git clone <你的仓库地址> dsh
+git clone https://github.com/11HJH11/dsh.git dsh
 cd dsh
 python3 -m venv .venv
 source .venv/bin/activate
